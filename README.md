@@ -1,3 +1,2 @@
-# OpenGov OSCAL Core
-
-Python Module to use in the opengov oscal development
+# opengov-oscal-pycore
+Lightweight core utilities for working with NIST OSCAL in Python.
